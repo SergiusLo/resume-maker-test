@@ -1,0 +1,9 @@
+.grid {
+   display:grid;
+   grid-template-areas:
+     'header header'
+     'main aside';
+   grid-template-rows: 180px 1450px;
+   grid-template-columns: 864px 288px;
+ }
+ 
